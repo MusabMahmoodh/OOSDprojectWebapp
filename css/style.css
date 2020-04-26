@@ -515,9 +515,11 @@ footer {
  /*---------------------------------------
  SignIn,SignUp forms             
 -----------------------------------------*/
+
 .modal-login {
   color: #636363;
-  width: 350px;
+  width: 90%;
+  max-width: 560px;
  
 }
 .modal-login .modal-content {
@@ -539,7 +541,7 @@ footer {
 }
 .modal-login i {
   position: absolute;
-  left: 13px;
+  left: 16px;
   top: 11px;
   font-size: 18px;
 }
